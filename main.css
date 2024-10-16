@@ -1,0 +1,18 @@
+body {
+    background-image: url("./mcu.jpg");
+    background-size: cover;
+    color: white;
+}
+div {
+    margin: 30px;
+    width: 30vw;
+    padding: 5px;
+    font-size: 17px;
+    font-family: "Comic Sans MS";
+}
+
+div:hover {
+    background-color: black;
+    border-radius: 10px;
+    color: rgb(176, 15, 15);
+}
